@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Koryaga233
-- 👀 I’m interested in App making, data management 
-- 🌱 I’m currently learning Phyton, C++, HTML
+- 👀 I’m interested in data science, backend development
+- 🌱 I’m currently learning Python(Django), PHP, main algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me: telegram - @koryagushka
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love cats 
 
